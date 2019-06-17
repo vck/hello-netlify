@@ -1,2 +1,1 @@
-# hello-netlify
-hello netlify
+# front-end
